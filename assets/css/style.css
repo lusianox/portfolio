@@ -96,6 +96,14 @@ img{
     color: var(--color-brand);
 }
 
+#nav-resume-btn {
+    color: var(--color-base);
+}
+
+#nav-resume-btn:hover {
+    color: var(--color-base);
+}
+
 @media (min-width: 992px) {
     .navbar {
         min-height: 100vh;
@@ -190,16 +198,4 @@ img{
     color: black;
     border-radius: 100px;
     font-size: 25px;
-}
-
-.bien{
-	text-align: center;
-	background-color: rgb(142, 236, 178);
-	color: #fff
-}
-
-.error, .campos{
-	text-align: center;
-	background-color: rgb(255, 0, 0);
-	color: #fff
 }
