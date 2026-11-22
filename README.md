@@ -1,47 +1,60 @@
-Luciano Bucher — Personal Portfolio
-Welcome to the repository for my personal portfolio website. It serves as a central hub presenting my background as a QA Analyst with roots in web design & front-end layout and ongoing training in IT Networks & Operations, alongside featured projects, technical skills, and direct links to my professional profiles.
+# Luciano Bucher — Software QA Analyst & Tester | Portfolio
 
-🌐 Live Portfolio
-Website: https://lusianox.github.io/portfolio/
+Welcome to the official repository for my personal portfolio website. It serves as a central hub presenting my experience as a **Software QA Analyst & Tester**, my background in web design and programming instruction, and my ongoing academic path in **Cybersecurity** and **ISTQB® CTFL v4.0** certification.
 
-👤 About Me
-I am a QA Analyst focused on functional testing, UI/UX and visual consistency, edge-case validation, API/business-rule verification, and clear bug tracking in Jira. My background also includes teaching web design, layout, CSS, and JavaScript, as well as academic studies in IT Networks and Operations and preparation for ISTQB CTFL v4.0.
+🌐 **Live Portfolio:** [https://lusianox.github.io/portfolio/](https://lusianox.github.io/portfolio/)
 
-Beyond testing and web fundamentals, I enjoy exploring networking, infrastructure, and how modern QA workflows evolve alongside AI and automation.
+---
 
-🛠️ Core Focus & Skills
-Quality Assurance: Functional Testing, Exploratory Testing, UI/UX & Visual QA, Cross-Browser / Cross-Device Checks, Edge-Case & Form Validation, Test Case Design & Bug Reporting (Jira).
+## 👤 About Me
 
-Web & Front-End Foundations: HTML5, CSS3, JavaScript, Responsive Layout & UI Inspection.
+I am a **Software QA Analyst & Tester** focused on functional and exploratory testing, UI/UX visual consistency, edge-case validation, API and database verification, and clear defect reporting in Jira. 
 
-Technical & Testing Growth: API Testing fundamentals, IT Networking & Infrastructure concepts, AI-assisted QA workflows.
+With roots in web development and experience training over 200 students in front-end and back-end fundamentals, I bring a developer-aware perspective to software quality. Currently, I am pursuing a **Bachelor's Degree in Cybersecurity** at Universidad Nacional de Hurlingham (UNAHUR) and preparing for the **ISTQB® Certified Tester Foundation Level (CTFL v4.0)** certification, continuously exploring how modern QA workflows evolve alongside AI-driven systems and test automation.
 
-📂 Featured Highlights & Sections
-About & Background: Overview of my QA experience, teaching background, and academic/certification path.
+---
 
-Projects & QA Work: Selected projects, testing/quality artifacts, and links to repositories or live demos.
+## 🛠️ Core Tech Stack & Skills
 
-Contact & Profiles: Direct channels to connect for QA roles, freelance testing opportunities, or collaborations.
+* **Manual & Exploratory Testing:** Web & Mobile (Android/iOS), Black-Box Testing, Regression Testing, Concurrency, AI & Chatbot Logic Validation.
+* **API & Database Testing:** Postman, REST APIs, JSON, Status Codes & Assertions, SQL, MySQL, CRUD Queries & Data Validation.
+* **Tools & Methodologies:** Git & GitHub, Jira, Agile / Scrum, SDLC / STLC.
+* **Web & Infrastructure Foundations:** HTML5, CSS3, JavaScript, Responsive UI Inspection, IT Networks & Cloud Computing (AWS) fundamentals.
 
-🚀 Local Setup
-This repository hosts the source files for the portfolio site deployed via GitHub Pages.
+---
 
-To run and preview the site locally:
+## 🎓 Education & Certifications
 
-Clone the repository: git clone [https://github.com/lusianox/portfolio.git](https://github.com/lusianox/portfolio.git)
+* **Bachelor's Degree in Cybersecurity** — *Universidad Nacional de Hurlingham (UNAHUR)* *(In Progress)*
+* **ISTQB® Certified Tester Foundation Level (CTFL v4.0)** — *ISTQB* *(In Progress / Exam Preparation)*
+* **English Immersion & Study Abroad Program** — *Oxford International, Greenwich, London, UK (2025)*
+* **Networks & Digital Environment Configuration** — *Centro de Formación Laboral 408 (2025)*
+* **Software Testing Fundamentals Certification (AICS® ASTFC)** — *International Software Quality Association (2024)*
+* **Cloud Computing (Amazon Web Services)** — *Centro de Formación Laboral 408 (2023)*
 
-Open index.html in your browser or serve the folder using a local development server (such as VS Code Live Server or npx serve).
+---
 
-🗺️ Roadmap
-Expand English and Spanish content consistency across sections.
+## 📂 Portfolio Highlights
 
-Add more detailed case studies and testing/project breakdowns.
+* **Home & Resumes:** Direct access to my LinkedIn profile and downloadable versions of my Resume (EN) and CV (ES).
+* **Skills:** Structured overview of my core QA, API, database, and methodology stack.
+* **Experience:** Breakdown of my trajectory across Manual QA Testing, Programming Instruction, Web Development, and Client Support.
+* **Education:** Academic background, international study experience, and industry certifications.
 
-Continuously refine UI responsiveness, accessibility, and performance.
+---
 
-📫 Connect
-LinkedIn: https://www.linkedin.com/in/lucianobucher/
+## 🗺️ Roadmap
 
-GitHub: https://github.com/lusianox
+* Add a dedicated **Projects** section showcasing hands-on E2E test automation repositories (Playwright / Cypress) and documented Postman API collections.
+* Publish detailed QA case studies, test plans, and bug report samples.
+* Continuously refine UI accessibility, responsiveness, and performance.
 
-Email: bucher.luciano19@gmail.com
+---
+
+## 📫 Let's Connect
+
+Open to remote **QA Analyst** opportunities and freelance testing projects.
+
+* **LinkedIn:** [linkedin.com/in/lucianobucher](https://www.linkedin.com/in/lucianobucher/)
+* **GitHub:** [github.com/lusianox](https://github.com/lusianox)
+* **Email:** [bucher.luciano19@gmail.com](mailto:bucher.luciano19@gmail.com)
